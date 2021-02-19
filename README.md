@@ -6,3 +6,4 @@ remote heartrate estimaion using by tranditional method.
 
 - python 3.7
 - NVIDIA Geforce GTX 1080 Ti
+- Vidoes and .txt file in folder "src" is not in line with.
